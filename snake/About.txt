@@ -1,0 +1,5 @@
+This is a clone of the legendary snake xenia game.All the features in the game are included. 
+To run the game run main.py file.make sure the following are installed before attempting to run the game:
+    .python
+    .sdl2 library of c++
+    .pygame
